@@ -11,9 +11,9 @@ This workshop provides graduate students with the necessary skills for effective
 
 **Registration:** [https://uarizona.co1.qualtrics.com/jfe/form/SV_9mLQalGxqyBb7mK](https://uarizona.co1.qualtrics.com/jfe/form/SV_9mLQalGxqyBb7mK)
 
-| Date |	Topic	| 
-| :--: | :-- |
-| 01/29/24	| Building Python webapps with Streamlit and Gradio (Part-1) |
+| Date |	Topic	| Resources
+| :--: | :-- | :-- |
+| 01/29/24	| Building Python webapps with Streamlit and Gradio (Part-1) | [Streamlit -  Colab Notebook](https://colab.research.google.com/drive/1OvI9VEKUDIHCy3Qu1bOaf6mxkNPXzWgP) <br> [Gradio - Colab Notebook](https://colab.research.google.com/drive/1sKi2vpeXyvseWAWc_aU-Q2vwxx_JeTUp) <br> [Presentation PDF](slides/01_29_streamlit_gradio_part-1.pdf)
 | 02/05/24	| Deploying ML models with Streamlit and Gradio (Part-2)	| 
 | 02/12/24	| Introduction to SQL Part-1	|
 | 02/19/24 |	Introduction to SQL Part-2	|	
