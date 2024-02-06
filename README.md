@@ -1,7 +1,11 @@
 # DataEngineering
-**All Data Engineering Technologies**
 
-This workshop provides graduate students with the necessary skills for effective data management analysis techniques in data engineering. Among the covered topics, you will find advanced database management systems, ETL (Extract, Transform, Load) processes, and big data technologies, ensuring a comprehensive understanding of the data engineering landscape.
+## **How can you master the art of handling massive datasets and transform raw data into insightful, actionable information?**
+
+Join our workshops to dive deep into advanced data management and analysis techniques designed for graduate students. Discover the secrets of efficient database management, unravel the complexities of ETL (Extract, Transform, Load) processes, and get hands-on experience with cutting-edge big data technologies. 
+
+## **Are you ready to elevate your data engineering skills and stand out in the rapidly evolving field of data science?"**
+This workshop provides graduate students the necessary skills for effective data management analysis techniques in data engineering. Among the covered topics, you will find advanced database management systems, ETL (Extract, Transform, Load) processes, and big data technologies, ensuring a comprehensive understanding of the data engineering landscape.
 
 **Repo:** [https://github.com/ua-datalab/DataEngineering/wiki](https://github.com/ua-datalab/DataEngineering/wiki)
 
@@ -13,8 +17,8 @@ This workshop provides graduate students with the necessary skills for effective
 
 | Date |	Topic	| Resources
 | :--: | :-- | :-- |
-| 01/29/24	| Building Python web apps with Streamlit and Gradio (Part-1) | [Streamlit -  Colab Notebook](https://colab.research.google.com/drive/1OvI9VEKUDIHCy3Qu1bOaf6mxkNPXzWgP) <br> [Gradio - Colab Notebook](https://colab.research.google.com/drive/1sKi2vpeXyvseWAWc_aU-Q2vwxx_JeTUp) <br> [Presentation Slides](slides/01_29_streamlit_gradio_part-1.pdf)
-| 02/05/24	| Deploying ML models with Streamlit and Gradio (Part-2)	| [Streamlit -  Colab Notebook](https://colab.research.google.com/drive/1ja3TjODBwDQtFBxWH72LQMNQw0_QWlKj?usp=sharing) <br> [Gradio - Colab Notebook](https://colab.research.google.com/drive/1es-RfRuIYIL1ZZMDFz4onaGpJ4bKGT6e?usp=sharing) <br> [Presentation Slides](slides/02_05_streamlit_gradio_part-2.pdf)
+| 01/29/24	| Building Python web apps with Streamlit and Gradio|[Streamlit -  Colab Notebook](https://colab.research.google.com/drive/1OvI9VEKUDIHCy3Qu1bOaf6mxkNPXzWgP) <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/01_Workshop_Jan_29_2024_streamlit.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br>  [Gradio - Colab Notebook ](https://colab.research.google.com/drive/1sKi2vpeXyvseWAWc_aU-Q2vwxx_JeTUp)  <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/01_Workshop_Jan_29_2024_gradio.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br> [Presentation Slides](slides/01_29_streamlit_gradio_part-1.pdf) |
+| 02/05/24	| Deploying ML models with Streamlit and Gradio | [Streamlit -  Colab Notebook](https://colab.research.google.com/drive/1ja3TjODBwDQtFBxWH72LQMNQw0_QWlKj?usp=sharing) <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/02_Workshop_Feb_05_2024_streamlit.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br> [Gradio - Colab Notebook](https://colab.research.google.com/drive/1es-RfRuIYIL1ZZMDFz4onaGpJ4bKGT6e?usp=sharing) <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/02_Workshop_Feb_05_2024_gradio.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br> [Presentation Slides](slides/02_05_streamlit_gradio_part-2.pdf)
 | 02/12/24	| Introduction to SQL Part-1	|
 | 02/19/24 |	Introduction to SQL Part-2	|	
 | 02/26/24	| Introduction to noSQL Part-1	| 
