@@ -14,7 +14,7 @@ This workshop provides graduate students with the necessary skills for effective
 | Date |	Topic	| Resources
 | :--: | :-- | :-- |
 | 01/29/24	| Building Python web apps with Streamlit and Gradio (Part-1) | [Streamlit -  Colab Notebook](https://colab.research.google.com/drive/1OvI9VEKUDIHCy3Qu1bOaf6mxkNPXzWgP) <br> [Gradio - Colab Notebook](https://colab.research.google.com/drive/1sKi2vpeXyvseWAWc_aU-Q2vwxx_JeTUp) <br> [Presentation Slides](slides/01_29_streamlit_gradio_part-1.pdf)
-| 02/05/24	| Deploying ML models with Streamlit and Gradio (Part-2)	| [Streamlit -  Colab Notebook](https://colab.research.google.com/drive/1ja3TjODBwDQtFBxWH72LQMNQw0_QWlKj?usp=sharing) <br> [Gradio - Colab Notebook](https://colab.research.google.com/drive/1es-RfRuIYIL1ZZMDFz4onaGpJ4bKGT6e?usp=sharing) <br> [Presentation Slides](slides/01_29_streamlit_gradio_part-1.pdf)
+| 02/05/24	| Deploying ML models with Streamlit and Gradio (Part-2)	| [Streamlit -  Colab Notebook](https://colab.research.google.com/drive/1ja3TjODBwDQtFBxWH72LQMNQw0_QWlKj?usp=sharing) <br> [Gradio - Colab Notebook](https://colab.research.google.com/drive/1es-RfRuIYIL1ZZMDFz4onaGpJ4bKGT6e?usp=sharing) <br> [Presentation Slides](slides/02_05_streamlit_gradio_part-2.pdf)
 | 02/12/24	| Introduction to SQL Part-1	|
 | 02/19/24 |	Introduction to SQL Part-2	|	
 | 02/26/24	| Introduction to noSQL Part-1	| 
