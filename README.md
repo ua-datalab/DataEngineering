@@ -1,22 +1,30 @@
-# DataEngineering
+<img src="https://github.com/clizarraga-UAD7/DataScienceLab/raw/main/images/UADLSquareLogo.png?raw=true" width=150>
 
-## **How can you master handling massive datasets and transform raw data into insightful, actionable information?**
+# UArizona Data Lab Workshops - Spring 2024
+
+
+## Data Engineering
+
+#### Navigating the World of Engineering 
+
+#### How can you master handling massive datasets and transform raw data into insightful, actionable information?
 
 Join our workshops to dive deep into advanced data management and analysis techniques designed for graduate students. Discover the secrets of efficient database management, unravel the complexities of ETL (Extract, Transform, Load) processes, and get hands-on experience with cutting-edge big data technologies. 
 
-## **Are you ready to elevate your data engineering skills and stand out in the rapidly evolving field of data science? <br> <br> Are you curious about how to kickstart your journey in data engineering with user-friendly tools before diving deep into the core complexities of the field?**
+#### Are you ready to elevate your data engineering skills and stand out in the rapidly evolving field of data science? <br> <br> Are you curious about how to kickstart your journey in data engineering with user-friendly tools before diving deep into the core complexities of the field?
 
  We begin our workshop series with an accessible introduction to Streamlit and Gradio, crafting interactive web applications to visualize and manipulate data effortlessly. However, this is just the beginning. As the weeks progress, we will seamlessly transition into the heart of data engineering, unraveling the intricacies of ETL (Extract, Transform, Load) processes. This gradual progression ensures a solid foundation, paving the way for you to master advanced data engineering techniques with confidence. Are you ready to evolve from creating engaging data-driven applications to mastering the art of data extraction, transformation, and loading?
 
 ***
 
-**Repo:** [https://github.com/ua-datalab/DataEngineering/wiki](https://github.com/ua-datalab/DataEngineering/wiki)
+**RESOURCES AND NOTES:**
 
-**Mondays at 2PM:** Weaver Science and Engineering Library Rm 212.
-
-**Zoom:** [https://arizona.zoom.us/j/86423223879](https://arizona.zoom.us/j/86423223879)
-
-**Registration:** [https://uarizona.co1.qualtrics.com/jfe/form/SV_9mLQalGxqyBb7mK](https://uarizona.co1.qualtrics.com/jfe/form/SV_9mLQalGxqyBb7mK)
+* [REGISTER](https://uarizona.co1.qualtrics.com/jfe/form/SV_9mLQalGxqyBb7mK) to join in person or via Zoom.
+* [Navigating the World of Data Engineering wiki](https://github.com/ua-datalab/DataEngineering/wiki)
+* We meet on Mondays at 2 PM in Weaver Science and Engineering Library Rm 212.
+* Zoom: [https://arizona.zoom.us/j/86423223879](https://arizona.zoom.us/j/86423223879)
+* There will be no workshops during Spring Break.
+* Content schedule and content are subject to change.
 
 | Date |	Topic	| Resources
 | :--: | :-- | :-- |
