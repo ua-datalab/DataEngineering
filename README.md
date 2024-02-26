@@ -34,10 +34,10 @@ Join our workshops to dive deep into advanced data management and analysis techn
 | 02/12/24	| Introduction to SQL Part-1	| SQL and duckDB Notebook <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/03_Workshop_Feb_12_2024.ipynb"> <img  src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br> [Presentation Slides](slides/02_12_intro_to_SQL.pdf) <br> [Youtube Video](https://www.youtube.com/watch?v=88vE9pGBKo8) |
 | 02/19/24 |	Introduction to SQL Part-2	|	 SQL and duckDB Notebook <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/04_Workshop_Feb_19_2024.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br> [Presentation Slides](slides/02_19_SQL_Part2.pdf) <br> [Youtube Video](https://www.youtube.com/watch?v=ijGoNIU8g0w) |
 | 02/26/24	| Introduction to noSQL Part-1	| mongoDB-Pymongo Notebook <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/05_Workshop_Feb_26_2024.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br> [Presentation Slides](02_26_NoSQL_Part1.pdf) <br> [Youtube Video]
-| 03/04/24	| 	**Spring Break** |		
-| 03/11/24	| Introduction to noSQL Part-2 |	
-| 03/18/24 |	Introduction to Spark and Hadoop Part-1	|		
-| 03/25/24 | 	Introduction to Spark and Hadoop Part-2	|
+| 03/04/24	| 	**Spring Break** |	-	|
+| 03/11/24	| Introduction to noSQL Part-2 |	Cassandra Notebook <br> [Presentation Slides] <br> [Youtube Video]
+| 03/18/24 |	Introduction to Spark and Hadoop Part-1	|		Hadoop and Hive Notebook <br> [Presentation Slides] <br> [Youtube Video]
+| 03/25/24 | 	Introduction to Spark and Hadoop Part-2	| Apache Spark - Pyspark Notebook <br> [Presentation Slides] <br> [Youtube Video]
 
 ***
 
