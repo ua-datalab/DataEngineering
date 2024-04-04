@@ -37,7 +37,7 @@ Join our workshops to dive deep into advanced data management and analysis techn
 | 03/04/24	| 	**Spring Break** |	-	|
 | 03/11/24	| Introduction to noSQL Part-2 |	[Cassandra Notebook](https://raw.githubusercontent.com/ua-datalab/DataEngineering/main/06_Workshop_Mar_11_2024.ipynb) <br> Copy the link above and open using Jupyter's Open from URL function on [Cyverse](https://de.cyverse.org/) <br> [Presentation Slides](03_11_NoSQL_Part2.pdf) <br> [Youtube Video](https://www.youtube.com/watch?v=-suIRWLyh0k)
 | 03/18/24 |	Introduction to Hadoop and Hive   	|	Hadoop & Hive Notebook <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/07_Workshop_Mar_18_2024.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <br> [Presentation Slides](slides/03_18_HadoopHive.pdf) <br> [Youtube Video](https://www.youtube.com/watch?v=LcTzQ7SsQ7c)
-| 03/25/24 | 	Introduction to Spark and PySpark | Spark-PySpark Notebook <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/08_Workshop_Mar_25_2024.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a><br> [Presentation Slides](slides/03_25_SparkPySpark.pdf) <br> [Youtube Video]
+| 03/25/24 | 	Introduction to Spark and PySpark | Spark-PySpark Notebook <a target="_blank" href="https://colab.research.google.com/github/ua-datalab/DataEngineering/blob/main/08_Workshop_Mar_25_2024.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a><br> [Presentation Slides](slides/03_25_SparkPySpark.pdf) <br> [Youtube Video](https://www.youtube.com/watch?v=jklFb9wqEXk)
 
 ***
 
